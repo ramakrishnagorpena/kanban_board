@@ -69,11 +69,7 @@ KanbanData =
 
 ### **Collaborators:**
 
-1. Chandra Bhan Prajapati. (fn-nob-38FBL)
-   https://github.com/Chandra-Bhan
+1. Ramakrishna Gorpena.
+   https://github.com/ramakrishnagorpena
 2. Lakshmi Prasanna Narapureddy. (fn-nob-22ZBL)
    https://github.com/nlprasanna5
-3. Rohan Kumar. (fn-nob-33SER)  
-   https://github.com/therohanmehta
-4. Samad Shahid Rahman. (fn-nob-85UAT)
-   https://github.com/SamadSRahman
